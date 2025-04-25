@@ -1,0 +1,11 @@
+
+dist/*
+build/*
+
+.musenv/*
+__pycache__/*
+**/*.egg-info/*
+
+# artifacts/my symlinks
+dsp*.so
+karao
