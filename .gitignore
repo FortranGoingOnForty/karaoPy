@@ -6,6 +6,7 @@ build/*
 __pycache__/*
 **/*.egg-info/*
 
-# artifacts/my symlinks
+# other artifacts/my symlinks
+*.mod
 dsp*.so
 karao
